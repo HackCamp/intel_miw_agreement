@@ -19,6 +19,7 @@ HackCamp運営事務局御中
 4. 【成果物の権利関係】本イベントの終了後、製品化を考える場合などは、後で権利を巡って争いにならないよう、チームのメンバーでしっかりと話し合い、必要に応じて契約書を交わすなどを行います。今回のアイデアソン、ならびにその後のMIWでの成果物、報酬等の権利、取り扱いは、当事者間で解決するものとし、運営事務局、インテルはその解決に関与しないことに同意します。
 
 5. 【応募】 MAKE IT WEARABLE チャレンジ（以下MIW）へ応募を行う場合、別途 MIW のガイドライン（ https://makeit.intel.com/devtrack_participantguide.pdf ）に合わせ、以下のルールにも従うものといたします。
+
   参加ルール：
   * https://makeit.intel.com/faq（英語）
   * https://makeit.intel.com/rules/japanese.pdf（日本語）
